@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class main {
 
     public static class KingsManagementSystem {
-        private String name;
+        private String name; //samueldidi
         private int hp;
         private int attackPower;
 
